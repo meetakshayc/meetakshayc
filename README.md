@@ -5,7 +5,7 @@
 </div>
 
 # I am Akshay, 
-## I am a Developer and 
+## I am a Developer
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Tibco_logo-_Palo_Alto%2C_CA_company-_%28PNG%29_2013-11-24_16-00.png" width=80 height=40>  I am TIBCO Developer, with experience of using multiple tibco stacks like BW, EMS, APIX, Admin.<br>
 - <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I learned Python also. <br>
